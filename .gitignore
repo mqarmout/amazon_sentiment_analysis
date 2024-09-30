@@ -5,3 +5,4 @@ Resources/
 Models/
 best_model.h5
 best_model.keras
+__pycache__/
